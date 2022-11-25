@@ -1,3 +1,5 @@
+//hello
+
 alert("welcome to hangman"); //web popup
 
 let listOfWords =["frog", "cat", "dog", "snake", "tiger", "lion", "whale", "rabbit"];
